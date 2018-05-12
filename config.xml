@@ -20,5 +20,6 @@
             Ismael Haro
         </author>
 
-        
+        <icon src="img/icon.png" />
+        <splash src="img/splash.png" />
     </widget>
